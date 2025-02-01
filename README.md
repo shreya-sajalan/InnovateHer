@@ -6,15 +6,15 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [SHREYA SAJALAN] - [ALBERTAIN INSTITUTE IF SCIENCE AND TECHNOLOGY]
+- Member 2: [SAHALA K S] - [ALBERTAIN INSTITUTE IF SCIENCE AND TECHNOLOGY]
+- Member 3: [EDNA MARY] - [ALBERTAIN INSTITUTE IF SCIENCE AND TECHNOLOGY]
 
 ### Hosted Project Link
 [https://innovate-dodmtdvlj-shreya-sajalans-projects.vercel.app/]
 
 ### Project Description
-[Women Safety app 
+Women Safety app 
 
 Emergency SOS:
 Users can quickly send an emergency alert to predefined contacts or authorities with a single tap. The SOS feature may include loud alarms, flashing lights, or discreet notifications to draw attention or scare off potential threats.
@@ -32,10 +32,10 @@ Safety Tips:
 The app provides practical safety advice, self-defense tips, and awareness guidelines to help users stay vigilant and prepared in various situations.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[WOMEN SAFETY]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[Emergency helping app for women with features like sos alert,fake calls,live location sharing etc.]
 
 ## Technical Details
 ### Technologies/Components Used
