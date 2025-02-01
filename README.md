@@ -82,10 +82,10 @@ For Software:
 *FINAL OUTPUT OF THE WEB APP*
 
 
-![Build](https://drive.google.com/file/d/1fSr7J-sUO9KKFy9Zm4H4JX7ji4xhmDti/view?usp=drive_link)
+![Build]![https://drive.google.com/file/d/1fSr7J-sUO9KKFy9Zm4H4JX7ji4xhmDti/view?usp=drive_link]
 *Explain the build steps*
 
-![Final](https://drive.google.com/file/d/1QWMdz_i1XIDPWnwV5jcbQLZhOACvvKYZ/view?usp=drive_link)
+![Final]![https://drive.google.com/file/d/1QWMdz_i1XIDPWnwV5jcbQLZhOACvvKYZ/view?usp=drive_link]
 *The final build shows the working of all the emergency options like live location sharing etc*
 
 ### Project Demo
