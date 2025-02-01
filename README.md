@@ -11,10 +11,25 @@
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://innovate-dodmtdvlj-shreya-sajalans-projects.vercel.app/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Women Safety app 
+
+Emergency SOS:
+Users can quickly send an emergency alert to predefined contacts or authorities with a single tap. The SOS feature may include loud alarms, flashing lights, or discreet notifications to draw attention or scare off potential threats.
+
+Location Sharing:
+Real-time GPS tracking allows users to share their live location with trusted contacts, ensuring their whereabouts are known in case of an emergency or during travel.
+
+Fake Call:
+A simulated call feature helps users escape uncomfortable or unsafe situations by generating a fake incoming call, providing an excuse to leave.
+
+Emergency Contacts:
+Users can store and prioritize emergency contacts who will be notified immediately during an SOS activation, ensuring quick response from trusted individuals.
+
+Safety Tips:
+The app provides practical safety advice, self-defense tips, and awareness guidelines to help users stay vigilant and prepared in various situations.]
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
@@ -25,23 +40,20 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [NEXT JS]
+- [Tailwind]
+- [Framer motion]
+- [Javascript]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+
+[npm install]
+[npm install framer-motion ]
 
 # Run
-[commands]
+[npm run dev]
 
 ### Project Documentation
 For Software:
@@ -50,15 +62,6 @@ For Software:
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 For Hardware:
 
