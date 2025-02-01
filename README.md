@@ -1,8 +1,8 @@
-# [Project Name] 🎯
+# [WOMEN SAFETY APP] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [InnovateHER]
 
 
 ### Team Members
