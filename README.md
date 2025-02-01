@@ -74,7 +74,7 @@ For Software:
 *code for the working of emergency contact option*
 
 ![https://drive.google.com/file/d/1EgSFvln2jU3hg1-6OWok56cIwqsrs9WL/view?usp=drive_link]
-(FAKE CODE)
+(FAKE CALL OPTION CODE)
 *code for the working of fake call option*
 
 ![https://drive.google.com/file/d/1QWMdz_i1XIDPWnwV5jcbQLZhOACvvKYZ/view?usp=drive_link]
