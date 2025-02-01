@@ -6,9 +6,9 @@
 
 
 ### Team Members
-- Member 1: [SHREYA SAJALAN] - [ALBERTAIN INSTITUTE IF SCIENCE AND TECHNOLOGY]
-- Member 2: [SAHALA K S] - [ALBERTAIN INSTITUTE IF SCIENCE AND TECHNOLOGY]
-- Member 3: [EDNA MARY] - [ALBERTAIN INSTITUTE IF SCIENCE AND TECHNOLOGY]
+- Member 1: [SHREYA SAJALAN] - [ALBERTAIN INSTITUTE OF SCIENCE AND TECHNOLOGY]
+- Member 2: [SAHALA K S] - [ALBERTAIN INSTITUTE OF SCIENCE AND TECHNOLOGY]
+- Member 3: [EDNA MARY] - [ALBERTAIN INSTITUTE OF SCIENCE AND TECHNOLOGY]
 
 ### Hosted Project Link
 [https://innovate-dodmtdvlj-shreya-sajalans-projects.vercel.app/]
@@ -61,9 +61,17 @@ For Software:
 # Screenshots (Add at least 3)
 ![https://drive.google.com/file/d/1fSr7J-sUO9KKFy9Zm4H4JX7ji4xhmDti/view?usp=drive_link]
 (EMERGENCY CONTACT CODE)
-**
+*code for the working of emergency contact option*
 
-For Hardware:
+![https://drive.google.com/file/d/1EgSFvln2jU3hg1-6OWok56cIwqsrs9WL/view?usp=drive_link]
+(FAKE CODE)
+*code for the working of fake call option*
+
+![https://drive.google.com/file/d/1QWMdz_i1XIDPWnwV5jcbQLZhOACvvKYZ/view?usp=drive_link]
+(OUTPUT SCREENSHOT)
+*FINAL OUTPUT*
+
+
 
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
@@ -72,8 +80,6 @@ For Hardware:
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
-# Build Photos
-![Team](Add photo of your team here)
 
 
 ![Components](Add photo of your components here)
