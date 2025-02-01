@@ -47,6 +47,11 @@ For Software:
 
 ### Implementation
 For Software:
+- [NEXT JS]
+- [Tailwind]
+- [Framer motion]
+- [Javascript]
+
 # Installation
 
 [npm install]
@@ -57,6 +62,11 @@ For Software:
 
 ### Project Documentation
 For Software:
+- [NEXT JS]
+- [Tailwind]
+- [Framer motion]
+- [Javascript]
+
 
 # Screenshots (Add at least 3)
 ![https://drive.google.com/file/d/1fSr7J-sUO9KKFy9Zm4H4JX7ji4xhmDti/view?usp=drive_link]
@@ -69,35 +79,20 @@ For Software:
 
 ![https://drive.google.com/file/d/1QWMdz_i1XIDPWnwV5jcbQLZhOACvvKYZ/view?usp=drive_link]
 (OUTPUT SCREENSHOT)
-*FINAL OUTPUT*
+*FINAL OUTPUT OF THE WEB APP*
 
 
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
+![Build](https://drive.google.com/file/d/1fSr7J-sUO9KKFy9Zm4H4JX7ji4xhmDti/view?usp=drive_link)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Final](https://drive.google.com/file/d/1QWMdz_i1XIDPWnwV5jcbQLZhOACvvKYZ/view?usp=drive_link)
+*The final build shows the working of all the emergency options like live location sharing etc*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1KEDwSjutrtd3zGEZD2Do8Z1mreYVdGNU/view?usp=drive_link]
+*This video shows the working of each options*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [SHREYA SAJALAN]: [SETTING UP THE APP]
