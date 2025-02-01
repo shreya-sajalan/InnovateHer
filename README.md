@@ -59,9 +59,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
+![https://drive.google.com/file/d/1fSr7J-sUO9KKFy9Zm4H4JX7ji4xhmDti/view?usp=drive_link]
+(EMERGENCY CONTACT CODE)
+**
 
 For Hardware:
 
@@ -94,9 +94,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [SHREYA SAJALAN]: [SETTING UP THE APP]
+- [SAHALA K S]: [DESIGNING THE USER INTERFACE]
+- [EDNA MARY]: [SETTING CODE FOR THE APP]
 
 ---
 Made with ❤️ at TinkerHub
